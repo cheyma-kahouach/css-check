@@ -1,0 +1,15 @@
+body>nav>ul {
+    list-style-type: none;
+  }
+
+body>nav>ul>li {
+
+    display: inline;
+}
+body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body>h3.intro {
+    font-size: x-large;
+  }
